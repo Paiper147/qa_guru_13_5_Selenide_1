@@ -1,4 +1,4 @@
-package github.herokuapp;
+package herokuapp;
 
 import org.junit.jupiter.api.Test;
 

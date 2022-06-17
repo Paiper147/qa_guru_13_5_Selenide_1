@@ -1,4 +1,4 @@
-package github.herokuapp;
+package herokuapp;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
